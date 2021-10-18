@@ -11,12 +11,12 @@ p{
 	color: green;
 	font-size: 12px;
 }
-ul{
-	list-style-type: square;
+ol{
+	
 	color: white;
 }
-ol{
-	type: A;
+ul{
+	list-style-type: square;
 	color: white;
 }
 .jotain{
