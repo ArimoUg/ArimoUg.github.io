@@ -6,10 +6,23 @@ body{
 h1{
 	color: white;
 	font-size: 20px;
+	border: double red 2px;
+	border-radius: 5px;
+	width: 90px;
+}
+h2{
+	border: dotted 2px white;
+	border-radius: 3px;
+	color: white;
 }
 p{
 	color: green;
 	font-size: 12px;
+}
+p1{
+	color:gray;
+	border: 2px solid red;
+	border-radius: 3px;
 }
 ol{
 	
@@ -24,3 +37,10 @@ ul{
 	height: 100px;
 	width: 100px;
 	}
+.Box{
+	color: grey;
+	background-color: red;
+	border: double yellow 2px;
+	height: auto;
+	width: 5%;
+}
