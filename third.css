@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+.header{
+	background-color: red;
+	margin: 0;
+}
+.nav{
+	margin: 0;
+	float: left;
+	background-color: grey;
+}
+	a:hover { 
+		color: red;
+}
+.sektion{
+	margin: 0;
+	background-color: darkgray;
+}
+.footer{
+	margin: 0;
+	background-color: blue;
+}
