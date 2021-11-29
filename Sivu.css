@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+
+.header{
+	background-color: lightyellow;
+	text-align: center;
+}
+.side{
+ 	background-color: lightsalmon;
+	text-align: center;
+}
+.article{
+	background-color: lightpink;
+	text-align: center;
+}
+.footer{
+	 background-color: red;
+  animation-name: example;
+  animation-duration: 5s;
+	text-align: center;
+}
+@keyframes example {
+  from {background-color: red;}
+  to {background-color: yellow;}
+}
+a:link{
+	color: white;
+}
+a:visited{
+	color: red;
+}
+a:hover{
+	color: blue;
+}
+ul{
+	list-style-type: none;
+}
+li{
+	display: inline;
+}
